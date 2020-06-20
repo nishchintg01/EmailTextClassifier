@@ -6,7 +6,7 @@ An Email Text classification using NLTK And Scikit-Learn.
 Use the git command to install this project.
 
 ```bash
-git clone https://github.com/nishchintg01/Weatherapp
+git clone https://github.com/nishchintg01/EmailTextClassifier.git
 ```
 
 ## Contributing
